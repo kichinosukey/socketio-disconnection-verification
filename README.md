@@ -1,0 +1,2 @@
+# socketio-disconnection-verification
+timeout等のセッティングによりsocket接続がどう切れるか確認
